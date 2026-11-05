@@ -1,5 +1,0 @@
-streamlit
-cloudscraper
-beautifulsoup4
-requests
-streamlit-autorefresh
